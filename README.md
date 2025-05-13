@@ -6,9 +6,9 @@ Cisco Secure Workload (also known as Tetration) has unfortunately lost the capab
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diagrams/Service_diagrams_b.png">
-  <source media="(prefers-color-scheme: light)" srcset="diagrams/Service_diagrams_w.png">
-  <img alt="Fallback image description" src="diagrams/Service_diagrams_w.png">
+  <source media="(prefers-color-scheme: dark)" srcset="Service_diagrams_b.png">
+  <source media="(prefers-color-scheme: light)" srcset="Service_diagrams_w.png">
+  <img alt="Fallback image description" src="Service_diagrams_w.png">
 </picture>
 </p>
 
